@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/acer/DSA",
-      "program": "c:/Users/acer/DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/acer/DSA/Queue",
+      "program": "c:/Users/acer/DSA/Queue/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
